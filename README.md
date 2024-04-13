@@ -1,5 +1,5 @@
 # Do-Bursy-na-kebsa
-Projekt do Bursy na kebsa
+Projekt do Bursy na kebsa ghghg
 
 Na pierwszego lipca2023 r. Zaplanowałem początek wyprawy rowerowej do Bursy, Jest to miasto w Turcji niedaleko Stambułu w okolicach Morza Czarnego.
 
