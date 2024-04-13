@@ -93,7 +93,7 @@ Bagażnik rowerowy zaprojektuję i wykonam sam. Nie ma na rynku niczego co speł
 
 W wielu przypadkach wystarczy język angielski, szczególnie w dużych miastach. Poza tym przyda się jednak znajomość języków. Słowacki w Słowacji, węgierski na Węgrzech, rumuński w Rumunii, bułgarski w Bułgarii, turecki w Turcji. To jest 5 języków, całkiem sporo.
 
-# Płatności.
+# Płatności..
 
 Trzeba będzie się dowiedzieć jaka forma płatności dominuje w każdym kraju i regionie. Tu w Polsce będziemy płacić zbliżeniowo w złotówkach. W Słowacji będziemy płacić w euro, eurocenty EUR. Na węgrzech forint HUF. W Rumunii Lej, 100 banów RON. W Bułgarii Lew, 100 stotinek BGN. W Turcji lira, 100 kuruszy TRY.
 
